@@ -22,7 +22,7 @@ I have also added some other fuctions to elevate the effect of display.Like AR m
 
 ## Document description
 
-- **Daotools.cs: The detector of different actions of **
+- **Daotools.cs: The detector of different actions on the model**
 
 - **Flycamera.cs: The controlor of moving the camera position and perspective**
 
