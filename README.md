@@ -1,8 +1,6 @@
 # UnityCluster
 
-This project is for people who wants to learn Parallel Rendering by using Unity3D.This fuction is different from the srceen linking by Screen splicing and SAGE2.
-
-This is a new idea to link multiscreens by using Network View component in Unity3D.
+This project was developed by Unity and Leap Motion to realize the interaction between multiscreens and users. This multiscreen displaying system using Network and software connect screens to achieve parellal displaying in multiscreens. Gestures and voice and be used to munipulate to model in screen via Leap Motion (Gestures dector) or HoloLens (AR head wear glass).
 
 Hardware is combined by WIFI network,five 4K screens,an android smartphone,Leap Motion and 5 CPUs.
 
