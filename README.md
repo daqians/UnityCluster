@@ -1,6 +1,6 @@
 # UnityCluster
 
-This project was developed by Unity and Leap Motion to realize the interaction between multiscreens and users. This multiscreen displaying system using Network and software connect screens to achieve parellal displaying in multiscreens. Gestures and voice and be used to munipulate to model in screen via Leap Motion (Gestures dector) or HoloLens (AR head wear glass).
+This project was developed by Unity and Leap Motion to realize the interaction between multiscreens and users. This multiscreen displaying system using Network and software connect screens to achieve parellal displaying in multiscreens. Gestures and voice and be used to munipulate to model in screen via Leap Motion (Gestures dector) or HoloLens (AR head wear glass). 3D model view can be displayed via 4K screens and AR display hardware like smartphone and HoloLens.
 
 Hardware is combined by WIFI network,five 4K screens,an android smartphone,Leap Motion and 5 CPUs.
 
