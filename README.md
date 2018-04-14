@@ -1,15 +1,15 @@
 # UnityCluster
 
-This project was developed by Unity and Leap Motion to realize the interaction between multiscreens and users. This multiscreen displaying system using Network and software connect screens to achieve parellal displaying in multiscreens. Gestures and voice and be used to munipulate to model in screen via Leap Motion (Gestures dector) or HoloLens (AR head wear glass). 3D model view can be displayed via 4K screens and AR display hardware like smartphone and HoloLens.
+This project was developed by Unity to realize the interaction between multi screens and users. This multiscreen displaying system using Network and software connect screens to achieve parallel displaying in multi-screens. Gestures and voice and be used to manipulate to model in screen via wearable devices like HoloLens (AR headwear glass) and Leap Motion (Gestures detector). The 3D model view can be displayed via 4K screens and AR display hardware like smartphones and HoloLens.
 
-Hardware is combined by WIFI network,five 4K screens,an android smartphone,Leap Motion and 5 CPUs.
+The project mainly solve the problem that model demonstrations in large conference rooms with wearable devices. The presenter implement the model conveniently via wearable devices (in this project we use HoloLens and Leap Motion). And the audience can observe the model using large multi screens or their smart phones.
 
-'Cluster Package' is the main component in this project.
+Hardware is combined with HoloLens, five 4K screens, an Android smartphone, Leap Motion and 5 CPUs.
 
-I have also added some other fuctions to elevate the effect of display.Like AR modle display in Android phone and Leap Motion.
+Some other functions have also been added to elevate the effect of display. Like AR model display function in Android phone and Leap Motion.
 
 ## Picture view
-
+These diagrams present the view on parallel display screens. The views in HoloLens can not upload in git.
 ![image](http://img.blog.csdn.net/20170604194742318?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanhzZHE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ![image2](http://img.blog.csdn.net/20170604204835240?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanhzZHE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
